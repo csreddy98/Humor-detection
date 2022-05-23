@@ -1,1 +1,1 @@
-# Humor-detection
+# Humor Prediction
